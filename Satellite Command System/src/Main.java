@@ -1,3 +1,10 @@
+import ActivateCommand.ActivateCommand;
+import Command.Command;
+import DeactivateCommand.DeactivateCommand;
+import Satellite.Satellite;
+import CollectDataCommand.CollectDataCommand;
+
+import RotateCommand.RotateCommand;
 import java.util.Scanner;
 
 public class Main {
